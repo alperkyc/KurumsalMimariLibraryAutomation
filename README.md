@@ -2,3 +2,8 @@
 C# Windows Form ile Kurumsal Mimari ve EntityFramework tabanlı bir kütüphane otomasyonu
 
 <img src="https://i.hizliresim.com/tvRZVN.png" />
+
+<br/>
+<br/>
+
+<img src="https://i.hizliresim.com/IMBrBy.png" />
